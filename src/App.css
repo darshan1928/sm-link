@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200&family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+
+.font-weight-700 {
+  font-weight: 700;
+}
+
+
+.parent-div:hover {
+  border-radius: 10px;
+}
+
+.parent-div:hover a {
+  color: #8E939A;
+}
+/* Add your existing styles here */
+
+.light {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.light a:hover {
+  color: #8E939A;
+}
+
+/* Styles for light mode */
+
+.dark {
+  background-color: #1B1E21;
+  color: #c0c0c0;
+}
+
+.dark a:hover {
+  color: #8E939A;
+}
